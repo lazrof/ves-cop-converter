@@ -1,0 +1,56 @@
+$primary: #6610f2;
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-family: "Nunito";
+    background-color: $indigo-100;
+    position: relative;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 24px;
+    padding-top: 15px;
+}
+
+#root {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+    min-width: 305px;
+}
+
+.main-box {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+nav.bottom-menu {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+    a {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        padding: 15px;
+        background-color: $indigo-800;
+    }
+
+    .home-icon {
+        width: 30px;
+        color: $light;
+    }
+}
+
+  
+.small-text {
+    font-size: 10px;
+}

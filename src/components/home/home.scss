@@ -1,0 +1,17 @@
+nav.home-menu {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.custom-link {
+    width: 112px;
+    margin: 12px;
+    font-size: 18px;
+
+    a {
+        text-decoration: none;
+    }
+}

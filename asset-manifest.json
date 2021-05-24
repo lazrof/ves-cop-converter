@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ves-cop-converter/static/css/main.27a175d9.chunk.css",
+    "main.js": "/ves-cop-converter/static/js/main.7920e859.chunk.js",
+    "main.js.map": "/ves-cop-converter/static/js/main.7920e859.chunk.js.map",
+    "runtime-main.js": "/ves-cop-converter/static/js/runtime-main.9bbb21dc.js",
+    "runtime-main.js.map": "/ves-cop-converter/static/js/runtime-main.9bbb21dc.js.map",
+    "static/js/2.053b0fd2.chunk.js": "/ves-cop-converter/static/js/2.053b0fd2.chunk.js",
+    "static/js/2.053b0fd2.chunk.js.map": "/ves-cop-converter/static/js/2.053b0fd2.chunk.js.map",
+    "static/js/3.6f1664e8.chunk.js": "/ves-cop-converter/static/js/3.6f1664e8.chunk.js",
+    "static/js/3.6f1664e8.chunk.js.map": "/ves-cop-converter/static/js/3.6f1664e8.chunk.js.map",
+    "index.html": "/ves-cop-converter/index.html",
+    "service-worker.js": "/ves-cop-converter/service-worker.js",
+    "service-worker.js.map": "/ves-cop-converter/service-worker.js.map",
+    "static/css/main.27a175d9.chunk.css.map": "/ves-cop-converter/static/css/main.27a175d9.chunk.css.map",
+    "static/js/2.053b0fd2.chunk.js.LICENSE.txt": "/ves-cop-converter/static/js/2.053b0fd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bbb21dc.js",
+    "static/js/2.053b0fd2.chunk.js",
+    "static/css/main.27a175d9.chunk.css",
+    "static/js/main.7920e859.chunk.js"
+  ]
+}

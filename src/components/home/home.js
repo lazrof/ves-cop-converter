@@ -7,7 +7,7 @@ function Home() {
         <>      
         <nav className="home-menu">
             <div class="btn btn-primary custom-link">
-                <a href="/conversion-exacta" class="text-light">Conversión Exacta</a>
+                <Link to="/conversion-exacta" className="text-light">Conversión Exacta</Link>
             </div>
             <div class="btn btn-primary custom-link">
                 <Link to="/conversion-al-cambio" className="text-light">Conversión al Cambio</Link>
